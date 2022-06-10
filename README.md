@@ -8,5 +8,5 @@ News Classification using Machine Learning Algorithms
 
 - Naive Bayes
 - Logistic Regression
-- Support Vector Machine
+- Linear Support Vector Machine
 
