@@ -6,7 +6,7 @@ https://github.com/kyawswa/Myanmar-News-Data
 
 News Classification using Machine Learning Algorithms
 
-- Naive Bayes
-- Logistic Regression
-- Linear Support Vector Machine
+- Naive Bayes, NB
+- Logistic Regression, LR
+- Linear Support Vector Machine, SVM
 
